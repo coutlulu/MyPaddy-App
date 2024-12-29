@@ -1,8 +1,4 @@
-/*Author: Muhammad Aqif Bin Ali Yasak
-Email: aqiffee30@student.usm.my
-Created on: October 28,2023
-Last modified: November 15,2023
-*/
+
 
 #include<iostream>  
 #include<conio.h>   
